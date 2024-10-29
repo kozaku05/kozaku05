@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1300029962190983178/1300742883250274365/ed3ba432c1c9f48f.png?ex=6721f2b6&is=6720a136&hm=cd6de8e600099736b518b3094358fb860cb5d8c812f08c645846a54c0894a555&" alt="Kozaku05 Banner" width="100%">
+  <img src="こざく.png" alt="Kozaku05 Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm kozaku05
