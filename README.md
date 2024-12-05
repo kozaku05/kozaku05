@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate **beginner developer** dedicated 
 ## 🛠 Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** Node.js
-- **Tools:** VSCode
+- **Frameworks/Libraries:** Node.js,Express
+- **Tools:** VSCode,Github
 
 ---
 
