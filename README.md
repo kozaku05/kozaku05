@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm kozaku05
 
-Welcome to my GitHub profile! I'm a passionate **beginner developer** dedicated to creating intuitive, sleek, and efficient applications. Currently focusing on **web development** and experimenting with **CSS designs** and **responsive UI**. I'm constantly learning and improving my skills, and I'm excited to grow in the world of programming!
+私は初心者の開発者であり、Node.js を使用してツールや Discord ボットを開発中です。また、プログラミングスキルを広げるために C# も勉強しています。無償での依頼も受け付けておりますので気軽にご連絡ください！
 
 ---
 
