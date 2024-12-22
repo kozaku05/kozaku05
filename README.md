@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="バナー.png" alt="Kozaku05 Banner" width="100%">
+  <img src="鴨田こざく (3).png" alt="Kozaku05 Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm kozaku05
